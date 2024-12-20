@@ -15,5 +15,5 @@ Una aplicación web que muestra información detallada sobre los agentes de Valo
 ## Tecnologías
 
 - HTML
-- CSS
+- Tailwind CSS
 - JavaScript
